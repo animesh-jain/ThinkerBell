@@ -1,2 +1,2 @@
-# hello-world
+# ThinkerBell
 This is my first project
