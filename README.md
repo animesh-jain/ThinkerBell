@@ -1,2 +1,2 @@
 # ThinkerBell
-This is my first project
+A Spam Detector Application that uses Naive Bayes Approach to detect Spam Messages
